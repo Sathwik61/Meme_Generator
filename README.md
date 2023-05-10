@@ -38,7 +38,7 @@ It will generate Random Meme
 
 ## Output
 
-![App Screenshot]()
+<img width="396" alt="Screenshot 2023-05-10 185924" src="https://github.com/Sathwik61/Meme_Generator/assets/115923680/8e7f9cc6-d521-418b-b798-d3e3f7f4457a">
 
 
 ## Features
